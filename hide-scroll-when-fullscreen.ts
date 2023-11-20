@@ -1,4 +1,4 @@
-// import { useEffect } from "react";
+import { useEffect } from "react";
 
 export const hidePageOverflow = () => {
   // window.innerWidth always is including scrollbar width, where as
